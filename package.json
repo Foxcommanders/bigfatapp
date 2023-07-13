@@ -3,16 +3,21 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://foxcommanders.github.io/bigfatapp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/bigfatapp/",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foxcommanders/bigfatapp.git"
+  },
   "devDependencies": {
     "vite": "^4.0.0",
     "glob": "^8.1.0"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Dmytro Kisel <dmytrokisell@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "vite-plugin-full-reload": "^1.0.5",
