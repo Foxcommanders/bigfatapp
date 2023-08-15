@@ -3,15 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://foxcommanders.github.io/bigfatapp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/bigfatapp/",
     "preview": "vite preview"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Foxcommanders/bigfatapp.git"
   },
   "devDependencies": {
     "vite": "^4.0.0",
